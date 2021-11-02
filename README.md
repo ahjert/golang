@@ -1,2 +1,2 @@
-# golang-server
+# golang
 Simple HTTP server in Go
